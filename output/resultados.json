@@ -1,0 +1,48 @@
+[
+    {
+        "image": "input/img0.jpg",
+        "text": [
+            "\"0 fracasso \u00e9",
+            "apenas oma",
+            "oportunidade",
+            "para recome\u00e7ar",
+            "com mais",
+            "intelig\u00eancia.\"",
+            "\u2014 HENRY FORD."
+        ]
+    },
+    {
+        "image": "input/img1.jpg",
+        "text": [
+            "\"Uma pessoa que nunca",
+            "cometeu um erro, nunca",
+            "tentou nada de novo\"",
+            "- Albert Einstein."
+        ]
+    },
+    {
+        "image": "input/img2.jpg",
+        "text": [
+            "Pensar \u00e9 mais",
+            "interessante do que",
+            "saber, mas menos",
+            "interessante do que",
+            "olhar.",
+            "Johann Wolfgang von Goethe",
+            "Alemanha 1' Escritor, Cientista, Mestre de Poesia, Drama e Novela",
+            "17491' 1' 1832",
+            "www.citador.pt"
+        ]
+    },
+    {
+        "image": "input/img3.jpg",
+        "text": [
+            "\"Somos ondas do",
+            "mesmo mar,",
+            "folhas da mesma",
+            "\u00e1rvore, flores do",
+            "mesmo jardim.",
+            "escritosdefilosofos.blogspot.com"
+        ]
+    }
+]
